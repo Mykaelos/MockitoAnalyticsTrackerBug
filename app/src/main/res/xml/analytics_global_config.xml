@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <!-- Variables in here should be replaced with new Google Developer Account values -->
+
+    <!-- The application name. Defaults to name specified for the application label -->
+    <string name="ga_appName">Example App</string>
+
+    <string name="ga_projectId" translatable="false">example-app-dfbba</string>
+
+    <string name="ga_packageName" translatable="false">com.jda.example</string>
+
+    <!-- The application version. Defaults to android:versionName specified in the
+      AndroidManifest.xml -->
+    <string name="ga_appVersion">1.0</string>
+
+    <!-- The dispatching period in seconds when Google Play services is unavailable. The
+    default period is 1800 seconds or 30 minutes -->
+    <integer name="ga_dispatchPeriod">1800</integer>
+
+    <!-- Enable dry run mode. Default is false -->
+    <bool name="ga_dryRun">false</bool>
+
+    <string name="ga_trackingId" translatable="false">UA-12345678-1</string>
+
+    <string name="gcm_defaultSenderId" translatable="false">123456789012</string>
+
+    <string name="google_app_id" translatable="false">1:123456789012:android:ddbe123df1adb12f</string>
+</resources>
